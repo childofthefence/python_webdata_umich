@@ -1,4 +1,4 @@
-import urllib.request, urllib.parse, urllib.error
+import urllib.error
 import xml.etree.ElementTree as ET
 
 # serviceurl = 'http://maps.googleapis.com/maps/api/geocode/xml?'
